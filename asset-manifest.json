@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fly365-task/static/css/main.67dc9062.chunk.css",
+    "main.js": "/fly365-task/static/js/main.eab7c192.chunk.js",
+    "main.js.map": "/fly365-task/static/js/main.eab7c192.chunk.js.map",
+    "runtime-main.js": "/fly365-task/static/js/runtime-main.f827e6e2.js",
+    "runtime-main.js.map": "/fly365-task/static/js/runtime-main.f827e6e2.js.map",
+    "static/js/2.0984a57c.chunk.js": "/fly365-task/static/js/2.0984a57c.chunk.js",
+    "static/js/2.0984a57c.chunk.js.map": "/fly365-task/static/js/2.0984a57c.chunk.js.map",
+    "index.html": "/fly365-task/index.html",
+    "precache-manifest.eda849d667838e71d3b34e0c1cdfbf16.js": "/fly365-task/precache-manifest.eda849d667838e71d3b34e0c1cdfbf16.js",
+    "service-worker.js": "/fly365-task/service-worker.js",
+    "static/css/main.67dc9062.chunk.css.map": "/fly365-task/static/css/main.67dc9062.chunk.css.map",
+    "static/js/2.0984a57c.chunk.js.LICENSE": "/fly365-task/static/js/2.0984a57c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f827e6e2.js",
+    "static/js/2.0984a57c.chunk.js",
+    "static/css/main.67dc9062.chunk.css",
+    "static/js/main.eab7c192.chunk.js"
+  ]
+}
