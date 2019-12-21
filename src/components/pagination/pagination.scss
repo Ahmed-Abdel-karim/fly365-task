@@ -1,0 +1,12 @@
+.pagination {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 0;
+  flex-wrap: wrap;
+  .separator {
+    color: var(--primary);
+    font-weight: bolder;
+    font-size: 1.2rem;
+  }
+}

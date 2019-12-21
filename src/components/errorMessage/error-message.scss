@@ -1,0 +1,10 @@
+.error-message {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  text-transform: capitalize;
+  z-index: 999;
+  animation: 0.5s fadeIn;
+}

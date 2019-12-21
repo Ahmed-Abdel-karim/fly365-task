@@ -1,0 +1,24 @@
+.button {
+  background: transparent;
+  border: 1px solid var(--primary);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: 0.5s all ease;
+  &.round {
+    border-radius: 50%;
+  }
+  &:hover {
+    background: var(--primary);
+    color: var(--white);
+  }
+  &.active {
+    background: var(--primary);
+    color: var(--white);
+  }
+}

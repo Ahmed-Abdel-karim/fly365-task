@@ -1,0 +1,28 @@
+.hotels-list-item {
+  .item-container {
+    background: transparent;
+    border: none;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 1rem 0.5rem;
+    transition: all 0.3s ease;
+
+    .img-container {
+      img {
+        border-radius: 0.3rem;
+      }
+    }
+
+    .info-container {
+      text-align: left;
+    }
+
+    .item-title {
+      font-size: 1.2rem;
+      text-align: left;
+      padding: 0.1rem 0;
+      text-transform: capitalize;
+    }
+  }
+}

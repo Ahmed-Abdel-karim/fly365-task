@@ -1,0 +1,13 @@
+.spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.061);
+  width: 100%;
+  position: absolute;
+  .spinner-border {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}

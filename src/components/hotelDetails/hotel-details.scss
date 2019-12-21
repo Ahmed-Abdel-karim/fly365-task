@@ -1,0 +1,15 @@
+.hotel-details {
+  .details-container {
+    min-height: 60vh;
+    position: relative;
+  }
+  .title {
+    font-size: 2rem;
+  }
+  .input {
+    width: 4rem;
+    border: 1px solid var(--primary);
+    padding: 0.1rem 0.5rem;
+    border-radius: 0.5rem;
+  }
+}
