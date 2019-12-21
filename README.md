@@ -1,4 +1,4 @@
-### I made one assumption that the sort button in review section will sort all data coming from Api , i think so becuase this is the only sort in the list and i make no sense to sory only the three results with the score , this means that when the user click on sort i show the data of the first page sorted not the current page he was showing before the he pressed sort
+### I made one assumption that the sort button in review section will sort all data coming from the Api , i think so becuase this is the only sort in the list and i make no sense to sory only the three results, this means that when the user click on sort i show the data of the first page sorted not the current page he was showing before the he pressed the button
 
 
 
